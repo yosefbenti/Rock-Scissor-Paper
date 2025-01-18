@@ -1,0 +1,33 @@
+#mainGuess{
+    display: flex;
+    border: 2px solid green;
+    flex: 1;
+}
+
+#playerGuesses{
+    display: flex;
+    border: 2px solid black;
+    flex: 1;
+}
+#computerGuesses{
+    display: flex;
+    border:  2px solid black;
+    flex: 3;
+}
+
+
+#mainScore{
+    display: flex;
+    border:  2px solid green;
+    flex: 1;
+}
+#playerScores{
+    display: flex;
+    border: 2px solid black;
+    flex: 1;
+}
+#computerScores{
+    display: flex;
+    border: 2px solid black;
+    flex: 3;
+}
